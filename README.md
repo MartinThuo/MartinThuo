@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on fullstack and an android development
+- 🔭 I’m an aspiring developer currently working on fullstack and an android development
 
    * Html and css
    * Javascript
