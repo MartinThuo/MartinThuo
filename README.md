@@ -1,16 +1,35 @@
 ### Hi there 👋
 
-<!--
-**ViceCartel/ViceCartel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on fullstack and an android development
 
-Here are some ideas to get you started:
+   * Html and css
+   * Javascript
+   * Php
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
+
+   * Laravel
+   * AngularJs
+   * reactJs
+          
+- 🌱 I’m currently learning ...
+   * kotlin
+
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  * c
+  * c++
+  * Python
+  * shell scripting (bash)
+          
+  ### My tool box
+    
+       | Web Dev    | Android Dev   | CyberSecurity   |
+       | -------------------------------------------- |
+       | HTML, CSS  | Kotlin        | C, C++, Python  |
+       | Javascript | Java          | Shell(bash)     |
+       | php        |               |                 |
+       | Laravel    |               |                 |
+       | AngularJS  |               |                 |
+       | reactJS    |               |                 |
+    
