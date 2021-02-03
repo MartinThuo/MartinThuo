@@ -19,10 +19,10 @@
   
   * c
   * c++
-  * Python
+  * Python 
   * shell scripting (bash)
           
-  ### My tool box
+  ### My tool box 🤖 
     
        | Web Dev    | Android Dev   | CyberSecurity   |
        | -------------------------------------------- |
