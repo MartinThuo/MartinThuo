@@ -24,11 +24,11 @@
           
   ### My tool box 🤖 
     
-       | Web Dev    | Android Dev   | CyberSecurity   |
+       | Web Dev    | App Dev       | CyberSecurity   |
        | -------------------------------------------- |
-       | HTML, CSS  | Kotlin        | C, C++, Python  |
-       | Javascript | Java          | Shell(bash)     |
-       | php        |               |                 |
+       | HTML, CSS  | Kotlin        | C, Python       |
+       | Javascript | flutter       | Shell(bash)     |
+       | php        | React native  | assembly        |
        | Laravel    |               |                 |
        | AngularJS  |               |                 |
        | reactJS    |               |                 |
