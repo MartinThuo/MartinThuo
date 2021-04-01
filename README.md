@@ -20,7 +20,7 @@
   * shell scripting (bash)
           
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MartinThuo&show_icons=true&theme=dark&bg_color=113.3deg,  rgba(217,9,27,1),rgba(22,68,150,1);)   
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MartinThuo&show_icons=true&theme=dark&bg_color=113.3deg,#D9091B,#164496;)   
 
 [<img src="https://img.pngio.com/twitter-logo-transparent-png-stickpng-twitter-logo-transparent-background-png-400_400.png" width="5%" height="5%" />](https://twitter.com/Martoe3301) 
 
