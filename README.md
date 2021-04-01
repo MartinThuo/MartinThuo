@@ -22,7 +22,7 @@
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MartinThuo&show_icons=true&bg_color=13.3deg,#D9091B,#164496;)   
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mke_Thuo)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mke_Thuo&layout=compact&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src="https://img.pngio.com/twitter-logo-transparent-png-stickpng-twitter-logo-transparent-background-png-400_400.png" width="5%" height="5%" />](https://twitter.com/Martoe3301) 
 
