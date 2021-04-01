@@ -1,22 +1,19 @@
 ### Hi there 👋
 
-- 🔭 I’m an aspiring developer currently working on fullstack and an android development
+- 🔭 I’m an aspiring developer currently working on fullstack javascript and android development
 
    * Html and css
    * Javascript
    * Php
 
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with cloud native technologies
 
-   * Laravel
-   * AngularJs
-   * reactJs
           
-- 🌱 I’m currently learning ...
-   * kotlin
+- 🌱 I’m currently learning javascript, flutter and kotlin
 
-- 💬 Ask me about ...
-  
+- 💬 Ask me about anything 
+
+- I am farmilia with  
   * c
   * c++
   * Python 
