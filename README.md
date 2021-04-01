@@ -4,10 +4,11 @@
  <p align="center">My coding and development stats</p>
 </p>
 
-
+<p align="center" >
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinThuo&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
+ </p>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinThuo&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
