@@ -19,7 +19,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinThuo&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mke_Thuo&layout=compact&range=last_7_days&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mke_Thuo&layout=compact&range=last_7_days&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) #center](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src="https://img.pngio.com/twitter-logo-transparent-png-stickpng-twitter-logo-transparent-background-png-400_400.png" width="5%" height="5%" />](https://twitter.com/Martoe3301) 
 
