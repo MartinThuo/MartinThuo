@@ -19,15 +19,8 @@
   * Python 
   * shell scripting (bash)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinThuo&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinThuo&repo=convoychat" />
-</a>
-          
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MartinThuo&show_icons=true&bg_color=13.3deg,#D9091B,#164496;)   
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MartinThuo&show_icons=true&bg_color=to bottom, #33ccff 0%, #ff99cc 100%;)   
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mke_Thuo&layout=compact&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
 
