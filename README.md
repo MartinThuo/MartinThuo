@@ -1,25 +1,3 @@
-### Hi there 👋
-
-- 🔭 I’m an aspiring developer currently working on fullstack javascript and android development
-
-   * Html and css
-   * Javascript
-   * Php
-
-- 🤔 I’m looking for help with cloud native technologies
-
-          
-- 🌱 I’m currently learning javascript, flutter and kotlin
-
-- 💬 Ask me about anything 
-
-- I am farmilia with  
-  * c
-  * c++
-  * Python 
-  * shell scripting (bash)
-
-
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MartinThuo&show_icons=true&theme=dark)   
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mke_Thuo&layout=compact&range=last_7_days&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
