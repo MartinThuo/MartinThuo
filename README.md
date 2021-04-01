@@ -1,10 +1,9 @@
 <p align="center">
- <img width="100px" src="https://avatars.githubusercontent.com/u/60392385?s=400&u=304df86aee96e250b08a184469be583b8b66cce4&v=4" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://avatars.githubusercontent.com/u/60392385?s=400&u=304df86aee96e250b08a184469be583b8b66cce4&v=4" align="center" alt="Martin Thuo profile pic" />
  <h2 align="center">Martin N Thuo</h2>
  <p align="center">My coding and development stats</p>
 </p>
 
-<p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinThuo&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
@@ -12,7 +11,7 @@
  <br>
  <br>
  
- <a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mke_Thuo&layout=compact&range=last_7_days&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
@@ -37,4 +36,4 @@
   <img align="center" src="https://www.sololearn.com/Icons/Courses/0.png" width="5%" height="5%" />
 </a>
 
-</p>
+
