@@ -18,6 +18,13 @@
   * c++
   * Python 
   * shell scripting (bash)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?MartinThuo=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?MartinThuo=anuraghazra&repo=convoychat" />
+</a>
           
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MartinThuo&show_icons=true&bg_color=13.3deg,#D9091B,#164496;)   
