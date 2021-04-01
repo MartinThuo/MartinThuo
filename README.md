@@ -8,7 +8,7 @@
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinThuo&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
- </p>
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinThuo&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
@@ -21,3 +21,4 @@
 
 [<img src="https://www.sololearn.com/Icons/Courses/0.png" width="5%" height="5%" />](https://www.sololearn.com/profile/11793304)
 
+ </p>
