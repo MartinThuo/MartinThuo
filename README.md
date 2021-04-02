@@ -33,15 +33,12 @@
   <img align="center" src="https://img.pngio.com/twitter-logo-transparent-png-stickpng-twitter-logo-transparent-background-png-400_400.png" width="5%" height="5%" />
 </a>
 
-<br>
-<br>
- 
+
 <a href="https://www.linkedin.com/in/martin-njoroge-31b3131a3/">
   <img align="center" src="https://omnisec.dk/wp-content/uploads/2020/01/linkedin-blue-style-logo-png-0-300x300.png" width="5%" height="5%" />
 </a>
 
-<br>
-<br>
+
  
 <a href="https://www.sololearn.com/profile/11793304">
   <img align="center" src="https://www.sololearn.com/Icons/Courses/0.png" width="5%" height="5%" />
