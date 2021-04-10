@@ -29,7 +29,7 @@
  <br>
  <br>
  
-<p align="center">Its not what we do once in a while that shapes our live, it's what we do consistently </p>
+<p align="center">Consistency is mere important than perfection <br> something am still learning apparently 😂</p>
 <p align="center">
 <a href="https://github.com/MartinThuo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mke_Thuo&layout=compact&range=last_7_days&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
