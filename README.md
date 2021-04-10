@@ -14,25 +14,31 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinThuo&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
+</p>
+
 <br>
 <br>
 
-My most used languages in my git repositories
+<p align="center"> My most used languages in my git repositories </p>
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinThuo&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </a>
+ </p>
  
  <br>
  <br>
  
-<p align="center">Its not what we do once in a while that shapes our live, it's what we do consistently</p>
+<p align="center">Its not what we do once in a while that shapes our live, it's what we do consistently </p>
+<p align="center">
 <a href="https://github.com/MartinThuo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mke_Thuo&layout=compact&range=last_7_days&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
+</p>
 
 <br>
 <br>
-
+<p align="center">
 <a href="https://twitter.com/Martoe3301">
   <img align="center" src="https://img.pngio.com/twitter-logo-transparent-png-stickpng-twitter-logo-transparent-background-png-400_400.png" width="5%" height="5%" />
 </a>
