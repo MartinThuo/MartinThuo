@@ -33,6 +33,7 @@
 </p>
 
 
+<p align="center">To find me on other platforms 👇🏼</p>
 <p align="center">
 <a href="https://twitter.com/Martoe3301">
   <img align="center" src="https://img.pngio.com/twitter-logo-transparent-png-stickpng-twitter-logo-transparent-background-png-400_400.png" width="5%" height="5%" />
