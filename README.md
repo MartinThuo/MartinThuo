@@ -11,7 +11,7 @@
 <p align="center">
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinThuo&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color="fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinThuo&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff />
 </a>
 
 </p>
@@ -28,7 +28,7 @@
 <p align="center">Consistency is mere important than perfection <br> something am still learning apparently 😂</p>
 <p align="center">
 <a href="https://github.com/MartinThuo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mke_Thuo&layout=compact&range=last_7_days&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mke_Thuo&layout=compact&range=last_7_days&bg_color=30,e96443,904e95&title_color=fff&text_color=fff />
 </a>
 </p>
 
