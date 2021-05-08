@@ -49,7 +49,7 @@
 <a href="https://www.sololearn.com/profile/11793304">
   <img align="center" src="https://www.sololearn.com/Icons/Courses/0.png" width="5%" height="5%" />
 </a>
-![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1398?logoColor=white%26project=%26recentMS=0%26showProject=false)
+
 </p>
 
 
