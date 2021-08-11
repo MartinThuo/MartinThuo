@@ -1,10 +1,20 @@
-<p align="center">
+<!-- <p align="center">
  <a href="https://github.com/mertoenjosh">
   <img width="100px" src="https://avatars.githubusercontent.com/u/60392385?s=400&u=304df86aee96e250b08a184469be583b8b66cce4&v=4" align="center" alt="Martin Thuo profile pic" />
   </a>
- <h2 align="center">Martin N Thuo</h2>
- <p align="center">My coding and development stats</p>
-</p>
+ 
+ <h2 align="center">Welcome to Martin's page </h2>
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</p> -->
+
+<h1 align="center">
+  <img width="100px" src="https://avatars.githubusercontent.com/u/60392385?s=400&u=304df86aee96e250b08a184469be583b8b66cce4&v=4" align="center" alt="Martin Thuo profile pic" />
+  Welcome to Martin's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
+
+
+
 
 <p align="center">My activity overview so far on github 😀</p>
 
