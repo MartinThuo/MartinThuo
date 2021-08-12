@@ -2,8 +2,13 @@
 <!--  <a href="https://github.com/mertoenjosh">
   <img width="100px" src="https://avatars.githubusercontent.com/u/60392385?s=400&u=304df86aee96e250b08a184469be583b8b66cce4&v=4" align="center" alt="Martin Thuo profile pic" />
  </a> <br> -->
-  Welcome to Martin's page!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to Martin's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <br>
+  
+  <a href="https://github.com/mertoenjosh">
+  <img width="100px" src="https://avatars.githubusercontent.com/u/60392385?s=400&u=304df86aee96e250b08a184469be583b8b66cce4&v=4" align="center" alt="Martin Thuo profile pic" />
+   </a> 
+  <br>
 </h1>
 
 <h3 align="center">👨🏾‍💻 Am a passionate android and web developer</h3>
