@@ -2,11 +2,11 @@
 <!--  <a href="https://github.com/mertoenjosh">
   <img width="100px" src="https://avatars.githubusercontent.com/u/60392385?s=400&u=304df86aee96e250b08a184469be583b8b66cce4&v=4" align="center" alt="Martin Thuo profile pic" />
  </a> <br> -->
-  Welcome to Martin's profile!
+  Welcome to Martin's page!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<h3 align="center">🧑🏻‍💻 Am a passionate android and web developer</h3>
+<h3 align="center">👨🏾‍💻 Am a passionate android and web developer</h3>
 
 <p align="center">My weekly coding activity overview 😀</p>
  
@@ -45,7 +45,7 @@
   
  <h2>⭐ Badges</h2>
  <p align="center">
-  <a href="https://app.pluralsight.com/score/skill-assessment/javascript/summary?context=profile"><img src="https://github.com/keikomori/icons-badges/blob/master/badges/Javascript/js.png"  width="200" height="100"/>
+  <a href="https://app.pluralsight.com/score/skill-assessment/javascript/summary?context=profile"><img src="https://github.com/keikomori/icons-badges/blob/master/badges/Javascript/js.png"  width="20%" height="20%"/>
 </p>
 
   
@@ -79,10 +79,38 @@
  <br>
   
  
+<h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=mertoenjosh&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /></h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/martin-thuo-31b3131a3/">
+    <img align="center" src="https://github.com/ryihan/ryihan-material/blob/main/Icon/linkedin.svg" alt="linkedin" />
+  </a>
+  
+  <a href="https://twitter.com/mertoenjosh">
+    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Twitter/twitter.svg" alt="twitter" />
+  </a>
+  
+  
+  <a href="https://stackoverflow.com/users/13045473/martoe3301">
+    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Stackoverflow/stackoverflow.svg" alt="stackoverflow" />
+  </a>
+  
+  <a href="https://www.reddit.com/user/m_3301">
+    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Reddit/reddit.svg" alt="Reddit" />
+  </a>
+  
+  <a href="mailto:mertoenjosh@mylife.mku.ac.ke">
+    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Outlook/outlook.svg" alt="Outlook" />
+  </a>
+  
+
+  
+  
+</p>
 
 
 
-<p align="center">To find me on other platforms <br> 👇🏼</p>
+<!-- <p align="center">To find me on other platforms <br> 👇🏼</p>
 <p align="center">
 <a href="https://twitter.com/mertoenjosh">
   <img align="center" src="https://img.pngio.com/twitter-logo-transparent-png-stickpng-twitter-logo-transparent-background-png-400_400.png" width="5%" height="5%" />
@@ -100,5 +128,7 @@
 </a>
 
 </p>
+
+ -->
 
 
