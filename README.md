@@ -1,9 +1,6 @@
 <h1 align="center">
-<!--  <a href="https://github.com/mertoenjosh">
-  <img width="100px" src="https://avatars.githubusercontent.com/u/60392385?s=400&u=304df86aee96e250b08a184469be583b8b66cce4&v=4" align="center" alt="Martin Thuo profile pic" />
- </a> <br> -->
   Welcome to Martin's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <br>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <br><br>
   
   <a href="https://github.com/mertoenjosh">
   <img width="100px" src="https://avatars.githubusercontent.com/u/60392385?s=400&u=304df86aee96e250b08a184469be583b8b66cce4&v=4" align="center" alt="Martin Thuo profile pic" />
@@ -15,7 +12,6 @@
 
 <p align="center">My weekly coding activity overview 😀</p>
  
-<!-- <p align="center">Consistency is mere important than perfection <br> something am still learning apparently 😂</p> -->
 <p align="center">
 <a href="https://github.com/MartinThuo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mertoenjosh&layout=compact&range=last_7_days&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
