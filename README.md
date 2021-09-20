@@ -1,5 +1,5 @@
 <h1 align="center">
-  Welcome to Martin's profile!
+  Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <br><br>
   
   <a href="https://github.com/mertoenjosh">
@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h3 align="center">👨🏾‍💻 Am a passionate android and web developer</h3>
+<h3 align="center">👨🏾‍💻 Am a juniour software developer</h3>
 
 <p align="center">My weekly coding activity overview 😀</p>
  
