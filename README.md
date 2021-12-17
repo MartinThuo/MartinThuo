@@ -7,7 +7,7 @@
    </a>  -->
 </h1>
 
-<h3 align="center">👨🏾‍💻 Am a juniour software developer</h3>
+<h3 align="center">👨🏾‍💻</h3>
 
 <p align="center">My weekly coding activity overview 😀</p>
  
