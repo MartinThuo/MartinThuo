@@ -16,7 +16,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/martin-n-thuo-31b3131a3/">
-   
     <img align="center" src="https://github.com/ryihan/ryihan-material/blob/main/Icon/linkedin.svg" alt="linkedin" />
   </a>
   
