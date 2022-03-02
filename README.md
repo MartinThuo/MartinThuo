@@ -12,14 +12,16 @@
  -->
  
  <h1 align="center">Hi, I'm Martin Thuo (😎 🏊🏽 🚵🏼‍♂️)</h1>
-  
+ 
+ 
 
-<img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mertoenjosh&theme=radical">
+<img align="right" alt= "stats card" height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=mertoenjosh&theme=radical">
 
 [![Martin's github stats](https://github-readme-stats.vercel.app/api?username=mertoenjosh&show_icons=true&count_private=true&theme=radical)](https://github.com/mertoenjosh/github-readme-stats)
 
-<hr> 
 
+
+<hr> 
 
  
 <h2 align="center">📡 Connect with me <img src="https://komarev.com/ghpvc/?username=mertoenjosh&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /></h2>
