@@ -10,6 +10,9 @@
  <br>
 
  --> 
+ 
+ <img align="right" alt= "stats card" height="200px" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=mertoenjosh&theme=radical">
+
   
  
 <h2 align="center">📡 Connect with me <img src="https://komarev.com/ghpvc/?username=mertoenjosh&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /></h2>
