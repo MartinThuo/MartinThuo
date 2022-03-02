@@ -20,6 +20,9 @@
 [![Martin's github stats](https://github-readme-stats.vercel.app/api?username=mertoenjosh&show_icons=true&count_private=true&theme=radical)](https://github.com/mertoenjosh/github-readme-stats)
 
 
+<!-- [![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kandy-mertoenjosh&show_icons=true&icons_color=yellow&bg_color=30,e96243,934e95&title_color=fff&text_color=fff")](https://github.com/mertoenjosh/github-readme-stats)
+
+ -->
 
 <hr> 
 
