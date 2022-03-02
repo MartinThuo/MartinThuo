@@ -15,7 +15,7 @@
  
  
 
-<img align="right" alt= "stats card" height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=mertoenjosh&theme=radical">
+<img align="right" alt= "stats card" height="200px" width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=mertoenjosh&theme=radical">
 
 [![Martin's github stats](https://github-readme-stats.vercel.app/api?username=mertoenjosh&show_icons=true&count_private=true&theme=radical)](https://github.com/mertoenjosh/github-readme-stats)
 
