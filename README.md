@@ -35,7 +35,7 @@
     <img align="center" src="https://github.com/ryihan/ryihan-material/blob/main/Icon/linkedin.svg" alt="linkedin" />
   </a>
   
-  <a href="https://twitter.com/mnthuo254">
+  <a href="https://twitter.com/mertoenjosh">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Twitter/twitter.svg" alt="twitter" />
   </a>
   
