@@ -11,7 +11,7 @@
 
  -->
  
- <h1 align="center">Hi, I'm Martin Thuo (😎 🏊🏽 🚵🏼‍♂️)</h1>
+ <h1 align="center">Hi, I'm Martin Thuo</h1>
  
  <div align="center">
 
