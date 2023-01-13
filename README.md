@@ -15,7 +15,7 @@
  
  <div align="center">
 
-[![Martin's Github Stats](https://github-readme-stats.vercel.app/api?username=mertoenjosh&show_icons=true&count_private=true&theme=radical)](https://github.com/mertoenjosh/github-readme-stats)
+<!-- [![Martin's Github Stats](https://github-readme-stats.vercel.app/api?username=mertoenjosh&show_icons=true&count_private=true&theme=radical)](https://github.com/mertoenjosh/github-readme-stats) -->
 
 [![Martin's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mertoenjosh&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  
