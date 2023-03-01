@@ -35,8 +35,8 @@
 <h3 align="center">My Github Stats</h3>
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=mertoenjosh&count_private=true&show_icons=true&theme=dark" alt="Martin Thuo" width="40%" height="50%"/>
- <img src="https://github-readme-streak-stats.herokuapp.com?user=mertoenjosh&theme=dark&date_format=j%20M%5B%20Y%5D" alt="Martin Thuo" width="40%" height="50%"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=mertoenjosh&count_private=true&show_icons=true&theme=dark" alt="Martin Thuo" width="50%" height="50%"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=mertoenjosh&theme=dark&date_format=j%20M%5B%20Y%5D" alt="Martin Thuo" width="50%" height="50%"/>
 </div>
 
 <hr> 
