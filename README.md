@@ -3,7 +3,8 @@
  
 <h3 align="center">A Software Engineer</h3>
 
-- 👨🏾‍💻 Currently working on Kotlin projects (Android).
+- 👨🏾‍💻 Working on Kotlin projects (Android).
+- :writing_hand: Currently learning Angular
 - ✌🏾 Looking forward to collaborating with other Android developers or Java Springboot group projects.
 - 📡 Connect with me on any of the platforms
  
